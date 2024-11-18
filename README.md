@@ -84,6 +84,7 @@ All plugins [plugins/](.config/nvim/lua/plugins).
 - [Fisher](https://github.com/jorgebucaran/fisher) - Plugin manager
   - [Tide](https://github.com/IlanCosman/tide) - Shell theme
   - [z for fish](https://github.com/jethrokuan/z) - Directory jumping
+  - [puffer fish](https://github.com/nickeb96/puffer-fish)  - 🐡 Text Expansions for Fish
   - [fzf for fish](https://github.com/PatrickF1/fzf.fish) - requires `fzf`
 - [Nerd fonts](https://github.com/ryanoasis/nerd-fonts) - Powerline-patched fonts. I use Hack.
 - [eza](https://github.com/eza-community/eza) - `ls` replacement
